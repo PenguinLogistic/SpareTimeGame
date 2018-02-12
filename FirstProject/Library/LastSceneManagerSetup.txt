@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/BlindHonor/Documents/Unity/MusicGame/Assets/FirstScene.unity
+  isLoaded: 1
+  isActive: 1
